@@ -96,7 +96,6 @@ body {
   background-image: url(/starbucks/assets/xl-hero-desktop_2021.png);
   background-size: cover;
   height: 100%;
-  width: 100%;
   align-content: center;
 }
 
@@ -121,7 +120,6 @@ body {
 
 .offers-section {
   justify-items: center;
-  padding: 80px;
 }
 
 .offers {
