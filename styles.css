@@ -95,7 +95,8 @@ body {
   background-color: #f1f8f6;
   background-image: url(/starbucks/assets/xl-hero-desktop_2021.png);
   background-size: cover;
-  height: 500px;
+  height: 100%;
+  width: 100%;
   align-content: center;
 }
 
