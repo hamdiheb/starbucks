@@ -250,7 +250,12 @@ body {
     justify-items: center;
     padding-bottom: 10px;
   }
+
+  .hero {
+  background-position: 50%;
+  }
 }
+
 
 @media screen and (min-width: 1000px) {
   .mob-navbar {
