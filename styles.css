@@ -254,6 +254,10 @@ body {
   .hero {
   background-position: 50%;
   }
+
+  .offer-section-title {
+    padding: 30px;
+  }
 }
 
 
